@@ -1,5 +1,5 @@
 import pytest
-import src.exercise
+from src import dog
 
 def test_exercise():
     #implement tests here
